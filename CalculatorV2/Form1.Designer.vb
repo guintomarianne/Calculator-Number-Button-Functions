@@ -729,11 +729,11 @@ Partial Class Calculator
         '
         'TextBox1
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Arial", 72.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(12, 29)
-        Me.TextBox1.MaxLength = 10
+        Me.TextBox1.Font = New System.Drawing.Font("Arial", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox1.Location = New System.Drawing.Point(19, 49)
+        Me.TextBox1.MaxLength = 8
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(294, 118)
+        Me.TextBox1.Size = New System.Drawing.Size(294, 81)
         Me.TextBox1.TabIndex = 2
         Me.TextBox1.Text = "0"
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right

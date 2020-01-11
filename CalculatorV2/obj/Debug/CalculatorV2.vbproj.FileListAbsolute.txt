@@ -13,3 +13,10 @@ D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\
 D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.exe
 D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.xml
 D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.pdb
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.vbprojResolveAssemblyReference.cache
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\WindowsApplication1.Calculator.resources
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\WindowsApplication1.Resources.resources
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\obj\Debug\CalculatorV2.vbproj.GenerateResource.Cache
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.exe
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.pdb
+D:\Users\Marianne Guinto\Documents\Visual Studio 2015\Projects\Elective3-master\CalculatorV2\CalculatorV2\bin\Debug\CalculatorV2.xml
